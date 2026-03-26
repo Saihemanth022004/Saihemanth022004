@@ -61,10 +61,9 @@ STATUS  :  Building real-world solutions, one system at a time
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Saihemanth022004&show_icons=true&bg_color=0d0000&title_color=FFD700&icon_color=E8000D&text_color=ffffff&border_color=8B0000&hide_border=false&rank_icon=github" height="160"/>
+<img src="https://streak-stats.demolab.com?user=Saihemanth022004&theme=dark&background=0d0000&ring=E8000D&fire=FFD700&currStreakLabel=FFD700&border=8B0000" height="160"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saihemanth022004&layout=compact&bg_color=0d0000&title_color=FFD700&text_color=ffffff&border_color=8B0000" height="160"/>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saihemanth022004&theme=dracula" width="100%"/>
 </div>
 
 ---
